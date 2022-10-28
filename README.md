@@ -24,5 +24,5 @@ Project Instructions
 16. take out the name item, and replace it with your name followed by time. 
 17. once you have this info typed in, hit the blue button that reads send from inside the postman app.
 18. the postman should return body type of what your name is, and what time you woke up. 
-19. end of program. 
+19. end of program..
 
